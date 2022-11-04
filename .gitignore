@@ -1,5 +1,7 @@
 
-**/ncappzoo/networks/
+**/ncappzoo/networks/tf_models
+**/ncappzoo/networks/tf_src
+
 **/ncappzoo/omz/open_model_zoo/tools/downloader/classification/vgg/v1/16/caffe/vgg-16.caffemodel
 **/ncappzoo/omz/open_model_zoo/tools/downloader/classification/vgg/v1/19/caffe/vgg-19.caffemodel
 **/ncappzoo/omz/open_model_zoo/tools/downloader/classification/alexnet/caffe/alexnet.caffemodel
