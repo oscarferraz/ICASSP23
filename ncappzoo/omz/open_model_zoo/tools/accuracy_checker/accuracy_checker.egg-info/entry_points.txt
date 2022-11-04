@@ -1,0 +1,3 @@
+[console_scripts]
+accuracy_check = accuracy_checker.main:main
+convert_annotation = accuracy_checker.annotation_converters.convert:main
