@@ -1,0 +1,8 @@
+**/ncappzoo/omz/
+**/ncappzoo/networks/
+**/ncappzoo/omz/open_model_zoo/tools/downloader/classification/vgg/v1/16/caffe/vgg-16.caffemodel
+**/ncappzoo/omz/open_model_zoo/tools/downloader/classification/vgg/v1/19/caffe/vgg-19.caffemodel
+**/ncappzoo/omz/open_model_zoo/tools/downloader/classification/alexnet/caffe/alexnet.caffemodel
+**/ncappzoo/omz/open_model_zoo/tools/downloader/classification/inception/v4/v4/caffe/inception-v4.caffemodel
+**/ncappzoo/omz/open_model_zoo/tools/downloader/classification/resnet/v1/101/caffe/resnet-101.caffemodel
+**/ncappzoo/omz/open_model_zoo/tools/downloader/classification/resnet/v1/152/caffe/resnet-152.caffemodel

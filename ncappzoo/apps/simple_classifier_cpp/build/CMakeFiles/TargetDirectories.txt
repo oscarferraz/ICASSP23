@@ -1,0 +1,3 @@
+/home/oscar/ncappzoo/apps/simple_classifier_cpp/build/CMakeFiles/rebuild_cache.dir
+/home/oscar/ncappzoo/apps/simple_classifier_cpp/build/CMakeFiles/simple_classifier_cpp.dir
+/home/oscar/ncappzoo/apps/simple_classifier_cpp/build/CMakeFiles/edit_cache.dir

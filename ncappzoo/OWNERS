@@ -1,0 +1,27 @@
+Directory, Directory Maintainer, Contact email
+
+apps/benchmark_ncs, Intel Corporation, neal.p.smith@intel.com
+apps/classifier_flash, Intel Corporation, neal.p.smith@intel.com
+apps/classifier_grid, Intel Corporation, neal.p.smith@intel.com
+apps/classifier_gui, Intel Corporation, tome.vang@intel.com
+apps/driving_pi, Intel Corporation, ayoob.nabwani@intel.com
+apps/gender_age,  Intel Corporation, tome.vang@intel.com
+apps/mnist_calc, Intel Corporation, neal.p.smith@intel.com
+apps/simple_classifier_cpp, Intel Corporation, neal.p.smith@intel.com
+apps/simple_classifier_py, Intel Corporation, tome.vang@intel.com
+apps/simple_classifier_py_camera, Intel Corporation, tome.vang@intel.com
+
+caffe/AgeGenderNet, Intel Corporation, neal.p.smith@intel.com
+caffe/AlexNet, Intel Corporation, neal.p.smith@intel.com
+caffe/GoogleNet, Intel Corporation, neal.p.smith@intel.com
+caffe/ResNet-50, Intel Corporation, tome.vang@intel.com
+caffe/SqueezeNet, Intel Corporation, neal.p.smith@intel.com
+caffe/face-detection-retail-0004, Intel Corporation, tome.vang@intel.com
+
+tensorflow/inception_v1, Intel Corporation, tome.vang@intel.com
+tensorflow/inception_v2, Intel Corporation, tome.vang@intel.com
+tensorflow/inception_v3, Intel Corporation, tome.vang@intel.com
+tensorflow/inception_v4, Intel Corporation, tome.vang@intel.com
+tensorflow/mnist, Intel Corporation, neal.p.smith@intel.com
+tensorflow/mobilenets, Intel Corporation, tome.vang@intel.com
+
