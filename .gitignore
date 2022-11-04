@@ -1,5 +1,16 @@
 
-**/ncappzoo/networks/tf_models/models/research
+**/ncappzoo/networks/tf_models/models/research/a*
+**/ncappzoo/networks/tf_models/models/research/b*
+**/ncappzoo/networks/tf_models/models/research/c*
+**/ncappzoo/networks/tf_models/models/research/d*
+**/ncappzoo/networks/tf_models/models/research/n*
+**/ncappzoo/networks/tf_models/models/research/r*
+**/ncappzoo/networks/tf_models/models/research/s*
+
+
+
+
+
 **/ncappzoo/networks/tf_src
 
 **/ncappzoo/omz/open_model_zoo/tools/downloader/classification/vgg/v1/16/caffe/vgg-16.caffemodel
