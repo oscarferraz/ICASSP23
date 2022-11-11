@@ -1,13 +1,14 @@
 
-**/jetson_inference_xavier/jetson-inference/data
+jetson_inference_xavier/jetson-inference/data/networks/AlexNet/AlexNet.caffemodel
+jetson_inference_xavier/jetson-inference/data/networks/ResNet-101/ResNet-101.caffemodel
+jetson_inference_xavier/jetson-inference/data/networks/ResNet-152/ResNet-152.caffemodel
+jetson_inference_xavier/jetson-inference/data/networks/VGG-16/VGG-16.caffemodel
+jetson_inference_xavier/jetson-inference/data/networks/VGG-19/VGG-19.caffemodel
 
 
 
 
-
-
-
-
+jetson_inference_xavier/jetson-inference/data/networks/*
 
 
 
