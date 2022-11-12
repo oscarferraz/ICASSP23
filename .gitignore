@@ -17,7 +17,6 @@ jetson_inference_nano/jetson-inference/data/networks/ResNet-152/ResNet-152.caffe
 jetson_inference_nano/jetson-inference/data/networks/VGG-16/VGG-16.caffemodel
 jetson_inference_nano/jetson-inference/data/networks/VGG-19/VGG-19.caffemodel
 
-jetson_inference_tx2/jetson-inference/data/networks/ResNet-50/ResNet-50.caffemodel
 jetson_inference_tx2/jetson-inference/data/networks/SqueezeNet/SqueezeNet.caffemodel
 
 
