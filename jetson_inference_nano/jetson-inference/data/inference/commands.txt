@@ -1,0 +1,3 @@
+/usr/src/tensorrt/bin/trtexec --model=/jetson-inference/data/inference/benchmarks/alexnet/caffe/alexnet.caffemodel --deploy=/jetson-inference/data/inference/benchmarks/alexnet/caffe/alexnet.prototxt --output=prob --loadInputs='data':/jetson-inference/data/inference/images/nps_screwdriver.bin --streams=1 --iterations=20 --useSpinWait --threads --dumpProfile 
+
+./imagenet /jetson-inference/data/inference/images/nps_acoustic_guitar.png /jetson-inference/data/inference/images/output/out.png --model=/jetson-inference/data/inference/alexnet/caffe/alexnet.caffemodel --prototxt=/jetson-inference/data/inference/alexnet/caffe/alexnet.prototxt --labels=/jetson-inference/data/inference/synset_words.txt --input-blob='data' --output-blob='prob' --headless 
