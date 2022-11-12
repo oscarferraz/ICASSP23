@@ -18,7 +18,7 @@ jetson_inference_nano/jetson-inference/data/networks/VGG-16/VGG-16.caffemodel
 jetson_inference_nano/jetson-inference/data/networks/VGG-19/VGG-19.caffemodel
 
 jetson_inference_tx2/jetson-inference/data/networks/*
-jetson_inference_tx2/jetson-inference/data/images/*
+
 
 
 jetson_inference_nano/jetson-inference/data/*
