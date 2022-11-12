@@ -1,0 +1,76 @@
+AlexNet GPU FP32 batch 1
+
+[10/24/2022-16:41:39] [I] Throughput: 47.0287 qps
+[10/24/2022-16:44:47] [I] Throughput: 46.9214 qps
+[10/24/2022-16:48:59] [I] Throughput: 47.0244 qps
+[10/24/2022-16:52:24] [I] Throughput: 46.9846 qps
+[10/24/2022-16:55:38] [I] Throughput: 46.9796 qps
+[10/24/2022-16:58:56] [I] Throughput: 46.9581 qps
+[10/24/2022-17:02:15] [I] Throughput: 47.0255 qps
+[10/24/2022-17:05:30] [I] Throughput: 46.9228 qps
+
+AlexNet GPU FP16 batch 1
+
+[10/24/2022-17:14:01] [I] Throughput: 87.3603 qps
+[10/24/2022-17:21:11] [I] Throughput: 87.4956 qps
+[10/24/2022-17:28:45] [I] Throughput: 87.3162 qps
+[10/24/2022-17:35:12] [I] Throughput: 87.3842 qps
+[10/24/2022-17:41:05] [I] Throughput: 87.2932 qps
+[10/24/2022-17:46:40] [I] Throughput: 87.1276 qps
+[10/24/2022-17:52:38] [I] Throughput: 87.549 qps
+[10/24/2022-17:58:26] [I] Throughput: 87.3952 qps
+[10/24/2022-18:04:21] [I] Throughput: 87.3809 qps
+[10/24/2022-18:11:33] [I] Throughput: 87.2406 qps
+
+GoogleNet GPU FP32 batch 1
+
+[10/24/2022-18:14:17] [I] Throughput: 48.8619 qps
+[10/24/2022-18:16:44] [I] Throughput: 48.8186 qps
+[10/24/2022-18:19:16] [I] Throughput: 48.7547 qps
+[10/24/2022-18:21:47] [I] Throughput: 48.7019 qps
+[10/24/2022-18:24:19] [I] Throughput: 48.7581 qps
+[10/24/2022-18:26:51] [I] Throughput: 48.8972 qps
+[10/24/2022-18:29:19] [I] Throughput: 48.8122 qps
+[10/24/2022-18:31:58] [I] Throughput: 48.99 qps
+[10/24/2022-18:34:33] [I] Throughput: 48.8737 qps
+[10/24/2022-18:37:02] [I] Throughput: 48.849 qps
+
+GoogleNet GPU FP16 batch 1
+
+[10/24/2022-18:41:04] [I] Throughput: 82.8895 qps
+[10/24/2022-18:45:07] [I] Throughput: 83.1949 qps
+[10/24/2022-18:49:08] [I] Throughput: 83.3131 qps
+[10/24/2022-18:53:19] [I] Throughput: 83.7405 qps
+[10/24/2022-18:57:19] [I] Throughput: 83.6359 qps
+[10/24/2022-19:01:21] [I] Throughput: 83.5393 qps
+[10/24/2022-19:05:23] [I] Throughput: 83.6248 qps
+[10/24/2022-19:09:30] [I] Throughput: 83.3265 qps
+[10/24/2022-19:13:32] [I] Throughput: 83.5415 qps
+[10/24/2022-19:17:35] [I] Throughput: 83.3593 qps
+
+SqueezeNet GPU FP32 batch 1
+
+[10/24/2022-19:18:52] [I] Throughput: 73.5011 qps
+[10/24/2022-19:20:07] [I] Throughput: 73.5054 qps
+[10/24/2022-19:21:22] [I] Throughput: 73.5736 qps
+[10/24/2022-19:22:43] [I] Throughput: 73.6838 qps
+[10/24/2022-19:24:04] [I] Throughput: 73.1383 qps
+[10/24/2022-19:25:23] [I] Throughput: 73.7938 qps
+[10/24/2022-19:26:38] [I] Throughput: 73.5135 qps
+[10/24/2022-19:27:58] [I] Throughput: 73.3926 qps
+[10/24/2022-19:29:10] [I] Throughput: 73.8413 qps
+[10/24/2022-19:30:22] [I] Throughput: 73.4271 qps
+
+SqueezeNet GPU FP16 batch 1
+
+[10/24/2022-19:32:13] [I] Throughput: 105.319 qps
+[10/24/2022-19:34:03] [I] Throughput: 105.054 qps
+[10/24/2022-19:35:53] [I] Throughput: 104.975 qps
+[10/24/2022-19:37:44] [I] Throughput: 105.03 qps
+[10/24/2022-19:39:34] [I] Throughput: 105.447 qps
+[10/24/2022-19:41:24] [I] Throughput: 105.013 qps
+[10/24/2022-19:43:15] [I] Throughput: 105.175 qps
+[10/24/2022-19:45:05] [I] Throughput: 105.346 qps
+[10/24/2022-19:46:58] [I] Throughput: 105.536 qps
+[10/24/2022-19:48:46] [I] Throughput: 104.948 qps
+
