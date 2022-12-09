@@ -20,7 +20,7 @@ Please cite my work if this code or this papers are useful for you.
 
 Good luck!-->
 
-### Networks
+### Networks and hardware
 
 The following networks were used in this work:
 
@@ -35,3 +35,14 @@ The following networks were used in this work:
     - VGG-19
 
 All of these networks can be found at https://drive.google.com/drive/folders/1rdBGUq4RYoNh70cXGpIehNTI-j27ZM6g?usp=sharing
+
+The inference was executed in:
+
+    - Intel Movidius neural compute stick (NCS)
+    - Nvidia Jetson Nano
+    - Nvidia Jetson TX2
+    - Nvidia Jetson Xavier
+
+### How to run
+
+The ncappzoo contain the file to run in NCS. To compile the model, run the makefile at ncappzoo/networks/*network* where *network* is the selected network. These makefiles have option to select the precision. These makefiles will run a simple classifier producing the accuracy for a defined set of images.
