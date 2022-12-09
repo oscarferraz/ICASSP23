@@ -1,4 +1,4 @@
-##Benchmarking Convolutional Neural Network Inference on Low-Power Edge Devices
+# Benchmarking Convolutional Neural Network Inference on Low-Power Edge Devices
 
 ### Introduction
 
