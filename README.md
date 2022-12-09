@@ -45,6 +45,8 @@ The inference was executed in:
 
 ### How to run
 
+#### How to run
+
 The ncappzoo contain the file to run in NCS. To compile the model, run the makefile at ncappzoo/networks/*network* where *network* is the selected network. These makefiles have option to select the precision. These makefiles will run a simple classifier producing the accuracy for a defined set of images.
 
 To measure performance, copy the compiled networks (*.xml and *.bin) from the previous step to ncappzoo/apps/benchmark_ncs/ and run the makefile. The makefile might need some configuration to change the name of the model and the used images. The number of inferences, threads per device, and simultaneous inferences per thread can be configure in the benchmark_ncs.py file. The results for throughput used number_of_inferences = 20, threads_per_dev = 10, simultaneous_infer_per_thread = 2.
