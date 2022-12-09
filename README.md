@@ -1,6 +1,6 @@
 # Benchmarking Convolutional Neural Network Inference on Low-Power Edge Devices
 
-### Introduction
+## Introduction
 
 This repo contains the code and results for paper submitted at 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP23).
 
@@ -20,7 +20,7 @@ Please cite my work if this code or this papers are useful for you.
 
 Good luck!-->
 
-### Networks and hardware
+## Networks and hardware
 
 The following networks were used in this work:
 
@@ -43,17 +43,17 @@ The inference was executed in:
     - Nvidia Jetson TX2
     - Nvidia Jetson Xavier
 
-### How to run
+## How to run
 
-#### NCS
+### NCS
 
 The ncappzoo folder contains the files to run the inferences in the NCS. To compile the model, run the makefile at ncappzoo/networks/*network* where *network* is the selected network. These makefiles have option to select the precision. These makefiles will run a simple classifier producing the accuracy for a defined set of images.
 
 To measure performance, copy the compiled networks (*.xml and *.bin) from the previous step to ncappzoo/apps/benchmark_ncs/ and run the makefile. The makefile might need some configuration to change the name of the model and the used images. The number of inferences, threads per device, and simultaneous inferences per thread can be configure in the benchmark_ncs.py file. The results for throughput used number_of_inferences = 20, threads_per_dev = 10, simultaneous_infer_per_thread = 2.
 
-#### Nvidia Jetson
+### Nvidia Jetson
 
-##### Accuracy
+#### Accuracy
 
 The jetson_inference_* folder contains the files to run the inferences in the Jetson boards. To run the inference run, run the docker container:
 
