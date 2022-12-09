@@ -1,5 +1,10 @@
 # Benchmarking Convolutional Neural Network Inference on Low-Power Edge Devices
 
+## Table of Contents
+0. [Introduction](#introduction)
+0. [Networks and hardware](#Networks and hardware)
+0. [How to run](#How to run)
+
 ## Introduction
 
 This repo contains the code and results for paper submitted at 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP23).
