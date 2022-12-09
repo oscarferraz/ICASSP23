@@ -45,8 +45,29 @@ The inference was executed in:
 
 ### How to run
 
-#### How to run
+#### NCS
 
-The ncappzoo contain the file to run in NCS. To compile the model, run the makefile at ncappzoo/networks/*network* where *network* is the selected network. These makefiles have option to select the precision. These makefiles will run a simple classifier producing the accuracy for a defined set of images.
+The ncappzoo folder contains the files to run the inferences in the NCS. To compile the model, run the makefile at ncappzoo/networks/*network* where *network* is the selected network. These makefiles have option to select the precision. These makefiles will run a simple classifier producing the accuracy for a defined set of images.
 
 To measure performance, copy the compiled networks (*.xml and *.bin) from the previous step to ncappzoo/apps/benchmark_ncs/ and run the makefile. The makefile might need some configuration to change the name of the model and the used images. The number of inferences, threads per device, and simultaneous inferences per thread can be configure in the benchmark_ncs.py file. The results for throughput used number_of_inferences = 20, threads_per_dev = 10, simultaneous_infer_per_thread = 2.
+
+#### Nvidia Jetson
+
+##### Accuracy
+
+The jetson_inference_* folder contains the files to run the inferences in the Jetson boards. To run the inference run, run the docker container:
+
+    $ cd jetson-inference
+    $ docker/run.sh
+
+For accuracy tests, modify the c/imageNet.h file and change the precison the 2nd static imageNet* Create function. Save and compile the new file:
+
+    $ cd build
+    $ cmake ..
+    $ make all
+
+Next, copy the file data/run.sh and paste at build/aarch/bin/ and run the file:
+    $ cp data/run.sh build/aarch/bin/
+    $ cd build/aarch/bin/
+    $ bash run.sh
+
