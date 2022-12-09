@@ -72,7 +72,18 @@ For accuracy tests, modify the c/imageNet.h file and change the precison the 2nd
     $ make all
 
 Next, copy the file data/run.sh and paste at build/aarch/bin/ and run the file:
+
     $ cp data/run.sh build/aarch/bin/
     $ cd build/aarch/bin/
     $ bash run.sh
+
+To run the throughput tests run the following:
+
+    $ cd data
+    $ bash run_infer.sh
+
+To run the power tests run the following:
+
+    $ cd data
+    $ bash power2.sh
 
