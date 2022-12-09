@@ -2,8 +2,8 @@
 
 ## Table of Contents
 0. [Introduction](#introduction)
-0. [Networks and hardware](#Networks and hardware)
-0. [How to run](#How to run)
+0. [Networks and hardware](#Networks-and-hardware)
+0. [How to run](#How-to-run)
 
 ## Introduction
 
