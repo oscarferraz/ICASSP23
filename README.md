@@ -1,4 +1,6 @@
-Benchmarking Convolutional Neural Network Inference on Low-Power Edge Devices
+##Benchmarking Convolutional Neural Network Inference on Low-Power Edge Devices
+
+### Introduction
 
 This repo contains the code and results for paper submitted at 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP23).
 
@@ -17,3 +19,19 @@ Please cite my work if this code or this papers are useful for you.
 <!--I might release a cleaner version of this some time in the future, but probably not, because I'm working on other stuff now.
 
 Good luck!-->
+
+### Networks
+
+The following networks were used in this work:
+
+    - AlexNet
+    - GoogleNetV1
+    - SqueezeNet
+    - ResNet-18
+    - ResNet-50
+    - ResNet-101
+    - ResNet-152
+    - VGG-16
+    - VGG-19
+
+All of these networks can be found at https://drive.google.com/drive/folders/1rdBGUq4RYoNh70cXGpIehNTI-j27ZM6g?usp=sharing
