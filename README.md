@@ -95,5 +95,16 @@ To run the power tests run the following:
 
 ## Takeaways
 
+- Perfomance
+	- Using reduced precision (FP16) doubles throughput performance in GPUs (Jetson Nano, Jetson TX2, and Jetson AGX Xavier) 
+	- Using reduced precision (FP16) increases efficiency in GPUs (Jetson Nano, Jetson TX2, and Jetson AGX Xavier) 
+	- No noticeable differences were observed between using full precision (FP32) and reduced precision (FP16) in the NCS and DLAs for both throughput and efficiency. 
+	- There is an apparent link between the number of parameters of the network and the throughput performance (+ number of parameters, - throughput)
+
+- Power Modes
+	- The NCS has the similiar efficiency as the Jetson TX2 but only requires 1.8W
+	- DLAs have the best efficiency for full precision (FP32)
+	- GPUs scale better using reduced precision (FP16)
+	- 
 ![Alt text](https://github.com/oscarferraz/ICASSP23/blob/master/Throughput2.svg)
 ![Alt text](https://github.com/oscarferraz/ICASSP23/blob/master/efficiency3.svg)
