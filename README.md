@@ -95,5 +95,5 @@ To run the power tests run the following:
 
 ## Takeaways
 
-![Alt text](https://github.com/oscarferraz/ICASSP23/blob/master/Throughput2.svg?sanitize=true)
-<img src="https://github.com/oscarferraz/ICASSP23/blob/master/Throughput2.svg?sanitize=true">
+![Alt text](https://github.com/oscarferraz/ICASSP23/blob/master/Throughput2.svg)
+![Alt text](https://github.com/oscarferraz/ICASSP23/blob/master/efficiency3.svg)
