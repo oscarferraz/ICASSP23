@@ -9,19 +9,24 @@
 
 This repo contains the code and results for paper to be presented at 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP23).
 
---If you use these models in your research, please cite:
+If you use these models in your research, please cite:
 
-	@article{He2015,
-		author = {Kaiming He and Xiangyu Zhang and Shaoqing Ren and Jian Sun},
-		title = {Deep Residual Learning for Image Recognition},
-		journal = {arXiv preprint arXiv:1512.03385},
-		year = {2015}
+	@@INPROCEEDINGS{Ferraz:2023,
+		author = {Oscar Ferraz and Helder Araujo and Vitor Silva and Gabriel Falcao},
+		title = {Benchmarking Convolutional Neural Network Inference on Low-Power Edge Devices},
+		booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+		year={2023},
+		volume={},
+		number={},
+		pages={},
+		doi={}
 	}
+O. Ferraz, H. Araujo, V. Silva and G. Falcao, "Benchmarking Convolutional Neural Network Inference on Low-Power Edge Devices," ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes, Greece, 2023,.
 
-S. Subramaniyan et al., "Enabling High-Level Design Strategies for High-Throughput and Low-power NB-LDPC Decoders," in IEEE Design & Test, 2022, doi: 10.1109/MDAT.2022.3202852. https://ieeexplore.ieee.org/document/9869892
+<!--S. Subramaniyan et al., "Enabling High-Level Design Strategies for High-Throughput and Low-power NB-LDPC Decoders," in IEEE Design & Test, 2022, doi: 10.1109/MDAT.2022.3202852. https://ieeexplore.ieee.org/document/9869892
 Please cite my work if this code or this papers are useful for you.
 
-<!--I might release a cleaner version of this some time in the future, but probably not, because I'm working on other stuff now.
+I might release a cleaner version of this some time in the future, but probably not, because I'm working on other stuff now.
 
 Good luck!-->
 
