@@ -94,3 +94,5 @@ To run the power tests run the following:
     $ bash power2.sh
 
 ## Takeaways
+
+![alt text]https://github.com/oscarferraz/ICASSP23/blob/master/Throughput2.eps?raw=true)
