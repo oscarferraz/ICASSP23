@@ -105,6 +105,5 @@ To run the power tests run the following:
 	- The NCS has the similiar efficiency as the Jetson TX2 but only requires 1.8W
 	- DLAs have the best efficiency for full precision (FP32)
 	- GPUs scale better using reduced precision (FP16)
-	- 
 ![Alt text](https://github.com/oscarferraz/ICASSP23/blob/master/Throughput2.svg)
 ![Alt text](https://github.com/oscarferraz/ICASSP23/blob/master/efficiency3.svg)
