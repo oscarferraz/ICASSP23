@@ -4,6 +4,7 @@
 0. [Introduction](#introduction)
 0. [Networks and hardware](#Networks-and-hardware)
 0. [How to run](#How-to-run)
+0. [Takeaways](#Takeaways)
 
 ## Introduction
 
@@ -92,3 +93,4 @@ To run the power tests run the following:
     $ cd data
     $ bash power2.sh
 
+## Takeaways
