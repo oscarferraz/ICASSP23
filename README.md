@@ -12,16 +12,19 @@ This repo contains the code and results for paper to be presented at 2023 IEEE I
 
 If you use these models in your research, please cite:
 
-	@@INPROCEEDINGS{Ferraz:2023,
-		author = {Oscar Ferraz and Helder Araujo and Vitor Silva and Gabriel Falcao},
-		title = {Benchmarking Convolutional Neural Network Inference on Low-Power Edge Devices},
-		booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
-		year={2023},
-		volume={},
-		number={},
-		pages={},
-		doi={}
-	}
+
+
+	 @INPROCEEDINGS{10095003,
+		  author={Ferraz, Oscar and Araujo, Helder and Silva, Vitor and Falcao, Gabriel},
+		  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+		  title={Benchmarking Convolutional Neural Network Inference on Low-Power Edge Devices}, 
+		  year={2023},
+		  volume={},
+		  number={},
+		  pages={1-5},
+		  doi={10.1109/ICASSP49357.2023.10095003}
+    }
+    
 O. Ferraz, H. Araujo, V. Silva and G. Falcao, "Benchmarking Convolutional Neural Network Inference on Low-Power Edge Devices," ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes, Greece, 2023,.
 
 <!--S. Subramaniyan et al., "Enabling High-Level Design Strategies for High-Throughput and Low-power NB-LDPC Decoders," in IEEE Design & Test, 2022, doi: 10.1109/MDAT.2022.3202852. https://ieeexplore.ieee.org/document/9869892
